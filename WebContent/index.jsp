@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Blood bank System</title>
 </head>
-<body>
-<center><h1>Cloud Based Blood Bank System</h1></center>
-<p>Hey ! App is Coming Soon</p>
+<body><center><h1>Cloud Based Blood Bank System</h1></center>
+<p>Hey! App is Coming Soon</p>
 </body>
 </html>
