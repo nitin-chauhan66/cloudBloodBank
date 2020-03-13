@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Cloud Based Blood Bank System</h1>
+<center><h1>Cloud Based Blood Bank System</h1></center>
+<p>Hey ! App is Coming Soon</p>
 </body>
 </html>
